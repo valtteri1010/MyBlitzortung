@@ -560,7 +560,7 @@ $_BL['fi']['legend_stat_active_stations'] = 'Valinnat';
 /*************************************************************/
 /* User                                                     */
 /*************************************************************/
-$_BL['fi']['Login'] = '';
+$_BL['fi']['Login'] = 'Kirjaudu';
 $_BL['fi']['Password'] = 'Salasana';
 $_BL['fi']['Login fail!'] = '';
 $_BL['fi']['Logout'] = 'Kirjaudu ulos';
@@ -866,7 +866,7 @@ $_BL['fi']['No data available!'] = 'Ei dataa saatavilla!';
 //Europe: Countries
 $_BL['fi']['Germany'] = 'Saksa';
 $_BL['fi']['France'] = 'Ranska';
-$_BL['fi']['Austria'] = '';
+$_BL['fi']['Austria'] = 'Itävalta';
 $_BL['fi']['Switzerland'] = 'Sveitsi';
 $_BL['fi']['Hungary'] = 'Unkari';
 $_BL['fi']['Belgium'] = 'Belgia';
@@ -886,7 +886,7 @@ $_BL['fi']['The Netherlands'] = 'Alankomaat';
 $_BL['fi']['United Kingdom'] = 'Yhdistynyt kuningaskunta';
 $_BL['fi']['Bulgaria'] = 'Burgaria';
 $_BL['fi']['Albania'] = 'Albania';
-$_BL['fi']['Russia'] = '';
+$_BL['fi']['Russia'] = 'Venäjä';
 $_BL['fi']['Romania'] = 'Romania';
 $_BL['fi']['Rome'] = 'Rooma';
 $_BL['fi']['Lithuania'] = 'Liettua';
@@ -1107,7 +1107,7 @@ $_BL['fi']['Real Time'] = '';
 $_BL['fi']['Real-Time Lightning Map'] = '';
 
 //en: 'Delay'
-$_BL['fi']['lm_live_delay'] = '';
+$_BL['fi']['lm_live_delay'] = 'Viive';
 
 //en: 'Strokes'
 $_BL['fi']['lm_live_strokes'] = '';
@@ -1116,10 +1116,10 @@ $_BL['fi']['lm_live_strokes'] = '';
 $_BL['fi']['lm_live_realtime'] = '';
 
 //en: 'Settings'
-$_BL['fi']['lm_live_settings_info'] = '';
+$_BL['fi']['lm_live_settings_info'] = 'Asetukset';
 
 //en: 'Fullscreen'
-$_BL['fi']['lm_live_set_fullscreen'] = '';
+$_BL['fi']['lm_live_set_fullscreen'] = 'Koko näyttö';
 
 //en: 'on'
 $_BL['fi']['lm_live_set_fullscreen_on'] = '';
@@ -1131,40 +1131,40 @@ $_BL['fi']['lm_live_set_fullscreen_off'] = '';
 $_BL['fi']['lm_live_set_fullscreen_info'] = '';
 
 //en: 'Style'
-$_BL['fi']['lm_live_set_map_style'] = '';
+$_BL['fi']['lm_live_set_map_style'] = 'Tyyli';
 
 //en: 'Normal'
 $_BL['fi']['lm_live_set_map_style_normal'] = '';
 
 //en: 'Satellite'
-$_BL['fi']['lm_live_set_map_style_sat'] = '';
+$_BL['fi']['lm_live_set_map_style_sat'] = 'Satelliitti';
 
 //en: 'Terrain'
-$_BL['fi']['lm_live_set_map_style_terrain'] = '';
+$_BL['fi']['lm_live_set_map_style_terrain'] = 'Maasto';
 
 //en: 'Roads'
-$_BL['fi']['lm_live_set_map_style_roads'] = '';
+$_BL['fi']['lm_live_set_map_style_roads'] = 'Tiet';
 
 //en: 'Thunder'
-$_BL['fi']['lm_live_set_thunder'] = '';
+$_BL['fi']['lm_live_set_thunder'] = 'Ukkonen';
 
 //en: 'max'
-$_BL['fi']['lm_live_set_thunder_max'] = '';
+$_BL['fi']['lm_live_set_thunder_max'] = 'max';
 
 //en: 'off'
-$_BL['fi']['lm_live_set_thunder_off'] = '';
+$_BL['fi']['lm_live_set_thunder_off'] = 'off';
 
 //en: 'Shows the thunder sound front in realtime on higher zoom levels.'
 $_BL['fi']['lm_live_set_thunder_info'] = '';
 
 //en: 'Clouds'
-$_BL['fi']['lm_live_set_clouds'] = '';
+$_BL['fi']['lm_live_set_clouds'] = 'Pilvet';
 
 //en: 'on'
-$_BL['fi']['lm_live_set_clouds_on'] = '';
+$_BL['fi']['lm_live_set_clouds_on'] = 'on';
 
 //en: 'off'
-$_BL['fi']['lm_live_set_clouds_off'] = '';
+$_BL['fi']['lm_live_set_clouds_off'] = 'off';
 
 //en: 'Clouds and precipitation from openweathermap.org (experimental!).'
 $_BL['fi']['lm_live_set_clouds_info'] = '';
@@ -1185,7 +1185,7 @@ $_BL['fi']['lm_live_set_radar_info'] = '';
 $_BL['fi']['lm_live_set_strokes_show'] = '';
 
 //en: 'last hour'
-$_BL['fi']['lm_live_set_strokes_show_all'] = '';
+$_BL['fi']['lm_live_set_strokes_show_all'] = 'viime tunti';
 
 //en: 'last minutes'
 $_BL['fi']['lm_live_set_strokes_show_last'] = '';
@@ -1227,7 +1227,7 @@ $_BL['fi']['lm_live_blitzortung_more'] = '';
 $_BL['fi']['lm_live_usage'] = '';
 
 //en: 'Volume'
-$_BL['fi']['lm_live_snd_volume'] = '';
+$_BL['fi']['lm_live_snd_volume'] = 'Äänenvoimakkuus';
 
 
 /*******************************/
